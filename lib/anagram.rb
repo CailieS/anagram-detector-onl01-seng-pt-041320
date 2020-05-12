@@ -1,7 +1,7 @@
 class Anagram
-  attr_accessor :name 
-  def initialize(name)
-    @name = name
+  attr_accessor :word 
+  def initialize(word)
+    @word = word
   end
   def find 
     
