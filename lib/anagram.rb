@@ -3,5 +3,6 @@ class Anagram
   def initialize(name)
     @name = name
   end
-  def 
+  def find 
+    
 end
