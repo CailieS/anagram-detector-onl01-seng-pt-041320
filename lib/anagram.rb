@@ -4,6 +4,6 @@ class Anagram
     @word = word
   end
   def match 
-    
+    word_array.select 
     
 end
